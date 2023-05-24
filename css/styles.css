@@ -165,6 +165,7 @@ img {
 
 .menu-open-btn {
   background-color: transparent;
+  border: none;
 }
 
 .menu-close-btn {
@@ -287,9 +288,6 @@ img {
   opacity: 1;
 }
 
-.icon-menu-burger {
-  stroke: black;
-}
 .color-link::after {
   content: "";
   position: absolute;
