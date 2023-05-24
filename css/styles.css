@@ -895,7 +895,7 @@ img {
 }
 
 .social-media-list {
-  width: 208px;
+  /* width: 208px; */
   height: 80px;
 }
 
@@ -1094,9 +1094,9 @@ img {
   .modal-checkbox-text {
     font-size: 12px;
   }
-  .social-media-list {
+  /* .social-media-list {
     margin: 0 auto;
-  }
+  } */
   .team {
     flex-direction: column;
     align-items: center;
